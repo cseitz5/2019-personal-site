@@ -1,4 +1,5 @@
 # personal-site
+hi
 
 ## Project setup
 ```
